@@ -2,7 +2,7 @@
 
 **`Junior Developer`**
 
-I'm a self-taught back-end oriented developer trying to make my mark on the digital world one line at a time. What I lack in experience, I make up for with the ability to learn quickly and flexibility to adapt to the ever-changing coding environment.
+I'm a self-taught back-end oriented developer trying to make my mark on the digital world one line at a time. What I lack in experience, I make up for with the ability to learn quickly and flexibility to adapt to an ever-changing coding environment.
 
 ---
 
